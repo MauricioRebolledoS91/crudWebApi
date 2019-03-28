@@ -1,0 +1,12 @@
+C:\Users\mi\source\repos\Momento2\Momento2.Datos\bin\Debug\Momento2.Datos.dll.config
+C:\Users\mi\source\repos\Momento2\Momento2.Datos\bin\Debug\Momento2.Datos.dll
+C:\Users\mi\source\repos\Momento2\Momento2.Datos\bin\Debug\Momento2.Datos.pdb
+C:\Users\mi\source\repos\Momento2\Momento2.Datos\bin\Debug\EntityFramework.dll
+C:\Users\mi\source\repos\Momento2\Momento2.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mi\source\repos\Momento2\Momento2.Datos\bin\Debug\EntityFramework.xml
+C:\Users\mi\source\repos\Momento2\Momento2.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mi\source\repos\Momento2\Momento2.Datos\obj\Debug\Momento2.Datos.csproj.CoreCompileInputs.cache
+C:\Users\mi\source\repos\Momento2\Momento2.Datos\obj\Debug\Momento2.Datos.csproj.CopyComplete
+C:\Users\mi\source\repos\Momento2\Momento2.Datos\obj\Debug\Momento2.Datos.dll
+C:\Users\mi\source\repos\Momento2\Momento2.Datos\obj\Debug\Momento2.Datos.pdb
+C:\Users\mi\source\repos\Momento2\Momento2.Datos\obj\Debug\Momento2.Datos.csprojResolveAssemblyReference.cache

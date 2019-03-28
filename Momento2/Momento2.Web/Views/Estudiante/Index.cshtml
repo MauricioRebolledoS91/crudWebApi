@@ -1,0 +1,32 @@
+﻿@model List<Momento2.Entidades.Estudiante>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Listado de Estudiantes</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombres</th>
+            <th>Apellidos</th>
+            <th>Programa</th>
+            <th>FechaMatricula</th>
+            <th>ValorMatricula</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var estudiante in Model)
+         {
+        <tr>
+            <td>@estudiante.Id</td>
+            <td>@estudiante.Nombre</td>
+            <td>@estudiante.Apellido</td>
+            <td>@estudiante.Programa</td>
+            <td>@estudiante.FechaMatricula</td>
+            <td>@estudiante.ValorMatricula</td>
+        </tr>
+         }
+    </tbody>
+</table>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Momento2_JEBModelStoreContainer" CdmEntityContainer="MomentoConnection">
+    <EntitySetMapping Name="Estudiante">
+      <EntityTypeMapping TypeName="Momento2_JEBModel.Estudiante">
+        <MappingFragment StoreEntitySet="Estudiante">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Apellido" ColumnName="Apellido" />
+          <ScalarProperty Name="Programa" ColumnName="Programa" />
+          <ScalarProperty Name="FechaMatricula" ColumnName="FechaMatricula" />
+          <ScalarProperty Name="ValorMatricula" ColumnName="ValorMatricula" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
